@@ -1,0 +1,11 @@
+Index: vamshi/vamshi.text
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>thid is vamshifile\n
+===================================================================
+diff --git a/vamshi/vamshi.text b/vamshi/vamshi.text
+--- a/vamshi/vamshi.text	(revision e9e437dd99a958a5ad212e2eefc481a43a0019e7)
++++ b/vamshi/vamshi.text	(date 1788142309823)
+@@ -1,1 +1,2 @@
+ thid is vamshifile
++merge conflict
